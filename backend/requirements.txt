@@ -6,3 +6,4 @@ chromadb
 streamlit
 python-dotenv
 python-multipart
+sentence-transformers
